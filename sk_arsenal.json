@@ -57,7 +57,7 @@
     ],
     "template": {
       "name": "item name",
-      "category": "sword | handgun | bomb | helmet | armor | shield | material | battle_sprite | battle_sprite_pod | costume_helmet | costume_armor | costume_accessory",
+      "category": "sword | handgun | bomb | helmet | armor | shield | material | token | battle_sprite | battle_sprite_pod | costume_helmet | costume_armor | costume_accessory",
       "star_level": "0-5 or null for battle sprites and costumes",
       "wiki_url": "https://wiki.spiralknights.com/Item_Name",
       "is_reskin": "true only if this item is a reskin of another",
@@ -92,7 +92,7 @@
           "1-1"
         ],
         "promotional": "true if a promotional or limited-time item",
-        "token_cost": [
+        "vendor_token_cost": [
           {
             "token_type": "token name",
             "amount": 15
@@ -294,12 +294,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Fang_of_Vog",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 40
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "almirian seal", "amount": 40 }]
       },
       "description": "a sword said to be created from the fang of the fire beast, vog.",
       "notes": "this item has been available since release 2011-04-04 when the game officially launched. it used to drop from bosses in the lionheart gate during the beta testing phase. little is known about the fiery deity vog . the fang of vog is part of the vog gear. the items in this set include: vog cub cap vog cub coat fang of vog"
@@ -2164,7 +2159,8 @@
       "star_level": 3,
       "wiki_url": "https://wiki.spiralknights.com/Sealed_Sword",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 20 }],
       },
       "description": "a mysterious sword of great untapped potential. it hums with raw power.",
       "notes": "this item has been available since release 2011-04-04 when the game officially launched. the original plan was that it would have nine seals on it and using it would break each seal one by one. once it was free of seals, you could either turn it into an avenger or gran faust via a random element in the clockworks. this all changed a long time ago when alchemy became a part of the design. 1"
@@ -3130,15 +3126,10 @@
       "category": "sword",
       "star_level": 2,
       "wiki_url": "https://wiki.spiralknights.com/Snarble_Barb",
-      "acquisition": {
-        "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "frumious fang",
-            "amount": 10
-          }
-        ]
-      },
+        "acquisition": {
+          "brinks": true,
+          "brinks_token_cost": [{"bound": true, "token_type": "frumious fang", "amount": 10 }]
+        },
       "description": "a bestial blade that can shoot slithy spines at those who would oppose its wielder.",
       "notes": "the snarble barb is part of the frumious fang token reward line. the items in this set include: bristling buckler spine cone snarble barb"
     },
@@ -6383,7 +6374,8 @@
       "star_level": 3,
       "wiki_url": "https://wiki.spiralknights.com/Antigua",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 20 }]
       },
       "description": "a mysterious relic from a forgotten time. it uses explosive powder to fire its rounds.",
       "notes": "this item has been available since release 2011-04-04 when the game officially launched. antigua is a caribbean island that appears in pirate stories. \"antigua\" also means \"ancient\" in spanish."
@@ -7792,7 +7784,8 @@
       "star_level": 2,
       "wiki_url": "https://wiki.spiralknights.com/Catalyzer",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "bark module", "amount": 15 }]
       },
       "description": "an advanced alchemical armament adapted from gremlin mining and demolition devices. catalyzer bullets envelop the enemy in an energy field that explodes after taking damage.",
       "notes": "previously, this weapon would produce the circling orbs with the charge attack, which were then able to be detonated with the regular attack. this was reversed with release 2014-12-03 . the explosion damage was increased with release 2025-10-07 ."
@@ -7803,7 +7796,8 @@
       "star_level": 2,
       "wiki_url": "https://wiki.spiralknights.com/Pulsar",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "bark module", "amount": 15 }]
       },
       "description": "a high-tech gremlin firearm originally designed for use by elite squads of ironclaw soldiers. pulsar shots become more powerful the further they travel."
     },
@@ -10653,15 +10647,10 @@
       "category": "bomb",
       "star_level": 2,
       "wiki_url": "https://wiki.spiralknights.com/Spine_Cone",
-      "acquisition": {
-        "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "frumious fang",
-            "amount": 10
-          }
-        ]
-      },
+        "acquisition": {
+          "brinks": true,
+          "brinks_token_cost": [{"bound": true, "token_type": "frumious fang", "amount": 10 }]
+        },
       "description": "a ferocious device that is positively bursting with briars."
     },
     "static capacitor": {
@@ -10670,7 +10659,8 @@
       "star_level": 2,
       "wiki_url": "https://wiki.spiralknights.com/Static_Capacitor",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "bark module", "amount": 15 }]
       },
       "description": "an explosive device of gremlin origin designed to produce a deadly field of electricity."
     },
@@ -10980,12 +10970,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Ancient_Plate_Helm",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 30
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "almirian seal", "amount": 30 }]
       },
       "description": "a vestigial helm whose weight makes it unwieldy to all but those with titanic strength."
     },
@@ -12258,10 +12243,7 @@
           "amount": 4000
         },
         "brinks": true,
-        "brinks_item_cost": {
-          "bound": true,
-          "amount": 35000
-        }
+        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 15 }]
       },
       "description": "a hardy helm crafted from overly oppressive ooze."
     },
@@ -12391,7 +12373,8 @@
       "category": "helmet",
       "wiki_url": "https://wiki.spiralknights.com/Quicksilver_Helm",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "bark module", "amount": 20 }]
       },
       "description": "a fine helmet made out of what was once a quicksilver.",
       "notes": "this item was introduced with release 2011-07-06 ."
@@ -12999,12 +12982,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Ancient_Plate_Mail",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 30
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "almirian seal", "amount": 30 }]
       },
       "description": "a suit of artifact armor that is said to have been worn by titans. though it offers amazing protection, its incredible weight makes it cumbersome to wear.",
       "notes": "this item's actual \"normal\" defense greatly exceeds the value implied by its stats bar."
@@ -18039,10 +18017,7 @@
           "amount": 4000
         },
         "brinks": true,
-        "brinks_item_cost": {
-          "bound": true,
-          "amount": 35000
-        }
+        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 15 }]
       },
       "recipe": {
         "recipe_cost": 4000,
@@ -18482,7 +18457,8 @@
       "star_level": 3,
       "wiki_url": "https://wiki.spiralknights.com/Quicksilver_Mail",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{"bound": true, "token_type": "bark module", "amount": 20 }]
       },
       "description": "a fine set of mail made of what was once a quicksilver.",
       "notes": "this item was introduced with release 2011-07-06 ."
@@ -19886,12 +19862,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Ancient_Plate_Shield",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 30
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "almirian seal", "amount": 30 }]
       },
       "description": "an antique shield whose origins have been lost to the passing of time."
     },
@@ -20662,12 +20633,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Blackened_Crest",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 30
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "almirian seal", "amount": 30 }]
       },
       "description": "a shield once carried by a knight of almire, now a cursed relic that has been nearly burned beyond recognition within the firestorm citadel. very powerful alchemy would be required to restore it to its former glory."
     },
@@ -21341,10 +21307,7 @@
           "amount": 4000
         },
         "brinks": true,
-        "brinks_item_cost": {
-          "bound": true,
-          "amount": 35000
-        },
+        "brinks_token_cost": [{ "bound": true, "token_type": "jelly gem", "amount": 15 }],
         "kragen": true,
         "kragen_item_cost": {
           "bound": true,
@@ -22199,12 +22162,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Bristling_Buckler",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "frumious fang",
-            "amount": 10
-          }
-        ]
+        "brinks_token_cost": [{"bound": true, "token_type": "frumious fang", "amount": 10 }]
       },
       "description": "a small shield spiked to supplement your sword in a skirmish."
     },
@@ -22435,6 +22393,366 @@
         ]
       },
       "sprite_name": "drakon"
+    },
+    "scissor blades": {
+      "name": "scissor blades",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Scissor_Blades",
+      "is_reskin": true,
+      "reskin_of": "leviathan blade"
+    },
+    "lionheart honor blade": {
+      "name": "lionheart honor blade",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Lionheart_Honor_Blade",
+      "is_reskin": true,
+      "reskin_of": "leviathan blade"
+    },
+    "frozen great cleaver": {
+      "name": "frozen great cleaver",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Frozen_Great_Cleaver",
+      "is_reskin": true,
+      "reskin_of": "triglav"
+    },
+    "mighty great cleaver": {
+      "name": "mighty great cleaver",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Mighty_Great_Cleaver",
+      "is_reskin": true,
+      "reskin_of": "sudaruska"
+    },
+    "deadly candy poker": {
+      "name": "deadly candy poker",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Deadly_Candy_Poker",
+      "is_reskin": true,
+      "reskin_of": "final flourish"
+    },
+    "furious fork": {
+      "name": "furious fork",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Furious_Fork",
+      "is_reskin": true,
+      "reskin_of": "furious flamberge"
+    },
+    "node slime crusher": {
+      "name": "node slime crusher",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Node_Slime_Crusher",
+      "is_reskin": true,
+      "reskin_of": "sudaruska"
+    },
+    "caladbolg": {
+      "name": "caladbolg",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Caladbolg",
+      "is_reskin": true,
+      "reskin_of": "combuster"
+    },
+    "winter's edge": {
+      "name": "winter's edge",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Winter%27s_Edge",
+      "is_reskin": true,
+      "reskin_of": "glacius"
+    },
+    "squall caller": {
+      "name": "squall caller",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Squall_Caller",
+      "is_reskin": true,
+      "reskin_of": "voltedge"
+    },
+    "firestorm skeggox": {
+      "name": "firestorm skeggox",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Firestorm_Skeggox",
+      "is_reskin": true,
+      "reskin_of": "combuster"
+    },
+    "dread captain cutlass": {
+      "name": "dread captain cutlass",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Dread_Captain_Cutlass",
+      "is_reskin": true,
+      "reskin_of": "dread venom striker"
+    },
+    "ice axe": {
+      "name": "ice axe",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Ice_Axe",
+      "is_reskin": true,
+      "reskin_of": "triglav"
+    },
+    "alpha claw gauntlet": {
+      "name": "alpha claw gauntlet",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Alpha_Claw_Gauntlet",
+      "is_reskin": true,
+      "reskin_of": "wild hunting blade"
+    },
+    "untimely scythe": {
+      "name": "untimely scythe",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Untimely_Scythe",
+      "is_reskin": true,
+      "reskin_of": "leviathan blade"
+    },
+    "shadow scythe": {
+      "name": "shadow scythe",
+      "category": "sword",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Shadow_Scythe",
+      "is_reskin": true,
+      "reskin_of": "leviathan blade"
+    },
+    "ascended honor blade": {
+      "name": "ascended honor blade",
+      "category": "sword",
+      "star_level": 4,
+      "wiki_url": "https://wiki.spiralknights.com/Ascended_Honor_Blade",
+      "is_reskin": true,
+      "reskin_of": "ascended calibur"
+    },
+    "tempered honor blade": {
+      "name": "tempered honor blade",
+      "category": "sword",
+      "star_level": 3,
+      "wiki_url": "https://wiki.spiralknights.com/Tempered_Honor_Blade",
+      "is_reskin": true,
+      "reskin_of": "tempered calibur"
+    },
+    "honor blade": {
+      "name": "honor blade",
+      "category": "sword",
+      "star_level": 2,
+      "wiki_url": "https://wiki.spiralknights.com/Honor_Blade",
+      "is_reskin": true,
+      "reskin_of": "calibur"
+    },
+    "nog blaster": {
+      "name": "nog blaster",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Nog_Blaster",
+      "is_reskin": true,
+      "reskin_of": "nova driver"
+    },
+    "spiral soaker": {
+      "name": "spiral soaker",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Spiral_Soaker",
+      "is_reskin": true,
+      "reskin_of": "blitz needle"
+    },
+    "buccaneer broadsider": {
+      "name": "buccaneer broadsider",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Buccaneer_Broadsider",
+      "is_reskin": true,
+      "reskin_of": "iron slug"
+    },
+    "peppermint repeater": {
+      "name": "peppermint repeater",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Peppermint_Repeater",
+      "is_reskin": true,
+      "reskin_of": "grim repeater"
+    },
+    "pollinator": {
+      "name": "pollinator",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Pollinator",
+      "is_reskin": true,
+      "reskin_of": "biohazard"
+    },
+    "wanderer's wand": {
+      "name": "wanderer's wand",
+      "category": "handgun",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Wanderer%27s_Wand",
+      "is_reskin": true,
+      "reskin_of": "owlite wand"
+    },
+    "humbug hazer": {
+      "name": "humbug hazer",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Humbug_Hazer",
+      "is_reskin": true,
+      "reskin_of": "venom veiler"
+    },
+    "jack froster": {
+      "name": "jack froster",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Jack_Froster",
+      "is_reskin": true,
+      "reskin_of": "shivermist buster"
+    },
+    "scalding hot cocoa": {
+      "name": "scalding hot cocoa",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Scalding_Hot_Cocoa",
+      "is_reskin": true,
+      "reskin_of": "ash of agni"
+    },
+    "deadly charcoaler": {
+      "name": "deadly charcoaler",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Deadly_Charcoaler",
+      "is_reskin": true,
+      "reskin_of": "deadly crystal bomb"
+    },
+    "punkin cinnamug": {
+      "name": "punkin cinnamug",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Punkin_Cinnamug",
+      "is_reskin": true,
+      "reskin_of": "ash of agni"
+    },
+    "pot o' crowns": {
+      "name": "pot o' crowns",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Pot_O%27_Crowns",
+      "is_reskin": true,
+      "reskin_of": "ash of agni"
+    },
+    "powder keg": {
+      "name": "powder keg",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Powder_Keg",
+      "is_reskin": true,
+      "reskin_of": "big angry bomb"
+    },
+    "piggy banker": {
+      "name": "piggy banker",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Piggy_Banker",
+      "is_reskin": true,
+      "reskin_of": "ash of agni"
+    },
+    "virulent seedling": {
+      "name": "virulent seedling",
+      "category": "bomb",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Virulent_Seedling",
+      "is_reskin": true,
+      "reskin_of": "venom veiler"
+    },
+    "exalted honor guard": {
+      "name": "exalted honor guard",
+      "category": "shield",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Exalted_Honor_Guard",
+      "is_reskin": true,
+      "reskin_of": "aegis"
+    },
+    "the bitter end": {
+      "name": "the bitter end",
+      "category": "shield",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/The_Bitter_End",
+      "is_reskin": true,
+      "reskin_of": "grey owlite shield"
+    },
+    "node slime wall": {
+      "name": "node slime wall",
+      "category": "shield",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Node_Slime_Wall",
+      "is_reskin": true,
+      "reskin_of": "ironmight plate shield"
+    },
+    "the final gasp": {
+      "name": "the final gasp",
+      "category": "shield",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/The_Final_Gasp",
+      "is_reskin": true,
+      "reskin_of": "grey owlite shield"
+    },
+    "crystalline defender": {
+      "name": "crystalline defender",
+      "category": "shield",
+      "star_level": 5,
+      "wiki_url": "https://wiki.spiralknights.com/Crystalline_Defender",
+      "is_reskin": true,
+      "reskin_of": "power mitt"
+    },
+    "mighty honor guard": {
+      "name": "mighty honor guard",
+      "category": "shield",
+      "star_level": 4,
+      "wiki_url": "https://wiki.spiralknights.com/Mighty_Honor_Guard",
+      "is_reskin": true,
+      "reskin_of": "mighty defender"
+    },
+    "great honor guard": {
+      "name": "great honor guard",
+      "category": "shield",
+      "star_level": 3,
+      "wiki_url": "https://wiki.spiralknights.com/Great_Honor_Guard",
+      "is_reskin": true,
+      "reskin_of": "great defender"
+    },
+    "raider buckler": {
+      "name": "raider buckler",
+      "category": "shield",
+      "star_level": 3,
+      "wiki_url": "https://wiki.spiralknights.com/Raider_Buckler",
+      "is_reskin": true,
+      "reskin_of": "swiftstrike buckler"
+    },
+    "ship wheel": {
+      "name": "ship wheel",
+      "category": "shield",
+      "star_level": 3,
+      "wiki_url": "https://wiki.spiralknights.com/Ship_Wheel",
+      "is_reskin": true,
+      "reskin_of": "swiftstrike buckler"
+    },
+    "airbraker shield": {
+      "name": "airbraker shield",
+      "category": "shield",
+      "star_level": 3,
+      "wiki_url": "https://wiki.spiralknights.com/Airbraker_Shield",
+      "is_reskin": true,
+      "reskin_of": "swiftstrike buckler"
+    },
+    "honor guard": {
+      "name": "honor guard",
+      "category": "shield",
+      "star_level": 2,
+      "wiki_url": "https://wiki.spiralknights.com/Honor_Guard",
+      "is_reskin": true,
+      "reskin_of": "defender"
     },
     "drakon t1": {
       "name": "drakon t1",
@@ -28876,6 +29194,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Blast_Powder",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated fire themed monster in depth 4 and below"
         ]
@@ -28893,6 +29212,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Blaze_Pepper",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated fire themed monster in depth 13 and below"
         ]
@@ -28910,6 +29230,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Blighted_Bone",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated undead in depth 13 and below"
         ]
@@ -29001,6 +29322,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Brute_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 5 }],
         "dropped_by": [
           "any defeated slime in depth 8 and below"
         ]
@@ -29018,6 +29340,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Bushy_Tail",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 5 }],
         "dropped_by": [
           "any defeated beast in depth 8 and below"
         ]
@@ -29046,6 +29369,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Chroma_Tear",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 10 }],
         "dropped_by": [
           "any defeated beast in depth 13 and below"
         ]
@@ -29092,6 +29416,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Corrosive_Acid",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 10 }],
         "dropped_by": [
           "any defeated poison themed monster in depth 13 and below"
         ]
@@ -29125,6 +29450,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Critter_Carapace",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated beast in depth 4 and below"
         ]
@@ -29142,12 +29468,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Dark_Ember",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "almirian seal",
-            "amount": 25
-          }
-        ]
+        "brinks_token_cost": [{ "token_type": "almirian seal", "amount": 25 }],
       },
       "description": "a mote of burning energy salvaged from lord vanaduke's throne room. it slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time.",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -29259,6 +29580,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Dragon_Scale",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 20 }],
         "dropped_by": [
           "any defeated beast in depth 18 and below"
         ]
@@ -29276,6 +29598,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Drake_Scale",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 5 }],
         "dropped_by": [
           "any defeated beast in depth 8 and below"
         ]
@@ -29293,6 +29616,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Driftwood",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated slime in depth 4 and below"
         ]
@@ -29347,6 +29671,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Everfrost",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 20 }],
         "dropped_by": [
           "any defeated freeze themed monster in depth 18 and below"
         ]
@@ -29431,6 +29756,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Fine_Fabric",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated gremlin in depth 8 and below"
         ]
@@ -29448,6 +29774,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Flame_Soul",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 20 }],
         "dropped_by": [
           "any defeated fire themed monster in depth 18 and below"
         ]
@@ -29476,6 +29803,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Forbidden_Fruit",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated fiend in depth 4 and below"
         ]
@@ -29493,6 +29821,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Force_Dynamo",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated construct in depth 8 and below"
         ]
@@ -29521,6 +29850,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Frayed_Fabric",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated gremlin in depth 4 and below"
         ]
@@ -29538,6 +29868,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Frost_Gel",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated freeze themed monster in depth 4 and below"
         ]
@@ -29555,6 +29886,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Fuel_Canister",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated fire themed monster in depth 4 and below"
         ]
@@ -29572,6 +29904,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Gel_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated slime in depth 4 and below"
         ]
@@ -29605,6 +29938,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Ghost_Bell",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 10 }],
         "dropped_by": [
           "any defeated undead in depth 13 and below"
         ]
@@ -29622,6 +29956,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Grave_Soil",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated undead in depth 4 and below"
         ]
@@ -29655,6 +29990,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Gremlin_Gizmo",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated gremlin in depth 4 and below"
         ]
@@ -29683,6 +30019,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Hailstone",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated freeze themed monster in depth 8 and below"
         ]
@@ -29700,6 +30037,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Heavy_Gear",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated construct in depth 13 and below"
         ]
@@ -29732,6 +30070,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Iron_Gear",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated construct in depth 4 and below"
         ]
@@ -29749,6 +30088,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Ironwood",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 10 }],
         "dropped_by": [
           "any defeated slime in depth 13 and below"
         ]
@@ -29765,7 +30105,8 @@
       "star_level": 5,
       "wiki_url": "https://wiki.spiralknights.com/Jelly_Glue",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{ "token_type": "jelly gem", "amount": 15 }]
       },
       "description": "a viscous compound developed by biotechs to allow for the study of slime creatures. when mixed with slime and jelly matter, it allows for reshaping without losing its form. though reserved for scientific purposes, the process is generally regarded as 'super fun'.",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -29833,6 +30174,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Meteor_Mote",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated gremlin in depth 13 and below"
         ]
@@ -29850,6 +30192,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Miracloth",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated gremlin in depth 13 and below"
         ]
@@ -29888,6 +30231,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Monster_Bone",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 2 }],
         "dropped_by": [
           "any defeated beast in depth 4 and below"
         ]
@@ -29905,6 +30249,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Mug_of_Misery",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 10 }],
         "dropped_by": [
           "any defeated fiend in depth 13 and below"
         ]
@@ -29933,6 +30278,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Nightshade",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated poison themed monster in depth 4 and below"
         ]
@@ -29965,6 +30311,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Owlite_Feather",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated undead in depth 4 and below"
         ]
@@ -29993,6 +30340,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Perfect_Snowball",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 10 }],
         "dropped_by": [
           "any defeated freeze themed monster in depth 13 and below"
         ]
@@ -30025,6 +30373,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Phial_of_Phear",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 5 }],
         "dropped_by": [
           "any defeated fiend in depth 8 and below"
         ]
@@ -30042,6 +30391,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Philoso_Feather",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 20 }],
         "dropped_by": [
           "any defeated undead in depth 18 and below"
         ]
@@ -30059,6 +30409,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Plague_Essence",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 20 }],
         "dropped_by": [
           "any defeated poison themed monster in depth 18 and below"
         ]
@@ -30076,6 +30427,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Plasma_Cell",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 20 }],
         "dropped_by": [
           "any defeated construct in depth 18 and below"
         ]
@@ -30093,6 +30445,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Power_Cell",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated shock themed monster in depth 4 and below"
         ]
@@ -30165,6 +30518,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Primal_Ore",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 20 }],
         "dropped_by": [
           "any defeated beast in depth 18 and below"
         ]
@@ -30208,6 +30562,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Reaper_Rib",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 20 }],
         "dropped_by": [
           "any defeated undead in depth 18 and below"
         ]
@@ -30241,6 +30596,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Redwood",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 5 }],
         "dropped_by": [
           "any defeated slime in depth 8 and below"
         ]
@@ -30269,6 +30625,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Rocket_Sprocket",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated construct in depth 8 and below"
         ]
@@ -30285,7 +30642,8 @@
       "star_level": 3,
       "wiki_url": "https://wiki.spiralknights.com/Rock_Salt",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{ "token_type": "jelly gem", "amount": 2 }, { "token_type": "primal spark", "amount": 5 }],
       },
       "description": "a small amount of clockworks mineral that's been infused with absolutely nothing. it hungrily draws at nearby essences and flavors, making it a staple in cooking, and the bane of jellies everywhere.",
       "notes": "this material has been available since release 2011-04-04 when the game officially launched. similar to real-world salt and animals such as the slug , slimes are harmed by this material. this phenomenon is referenced in its description as well as the prestige mission: a pinch of salt . based on its description, this material seems to be a colorless mineral in material form.",
@@ -30300,6 +30658,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Rocky_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 10 }],
         "dropped_by": [
           "any defeated slime in depth 13 and below"
         ]
@@ -30317,6 +30676,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Royal_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 20 }],
         "dropped_by": [
           "any defeated slime in depth 18 and below"
         ]
@@ -30349,7 +30709,8 @@
       "star_level": 5,
       "wiki_url": "https://wiki.spiralknights.com/Schemer_Scrap",
       "acquisition": {
-        "brinks": true
+        "brinks": true,
+        "brinks_token_cost": [{ "token_type": "bark module", "amount": 18 }],
       },
       "description": "a fragment of a blueprint used by gremlin schemers to construct their mechanical monstrosities. with enough of them and a little tape, you could construct a metal death machine yourself!",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -30421,6 +30782,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Shadow_Steel",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 20 }],
         "dropped_by": [
           "any defeated fiend in depth 18 and below"
         ]
@@ -30465,6 +30827,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Silver_Coil",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated construct in depth 13 and below"
         ]
@@ -30482,6 +30845,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Silverweave",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 20 }],
         "dropped_by": [
           "any defeated gremlin in depth 18 and below"
         ]
@@ -30515,12 +30879,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Snarbostuffing",
       "acquisition": {
         "brinks": true,
-        "token_cost": [
-          {
-            "token_type": "frumious fang",
-            "amount": 12
-          }
-        ]
+        "brinks_token_cost": [{ "token_type": "frumious fang", "amount": 12 }],
       },
       "description": "a dense, fluffy stuffing made from a special polymer that doesn't break down when exposed to the cursed fur of the snarbolax. it's perfect for creating trophies or adorable, cursed, stuffed toys.",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -30532,6 +30891,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Soul_Dust",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 5 }],
         "dropped_by": [
           "any defeated undead in depth 8 and below"
         ]
@@ -30593,6 +30953,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Static_Clinger",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated shock themed monster in depth 4 and below"
         ]
@@ -30621,6 +30982,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Sun_Silver",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 20 }],
         "dropped_by": [
           "any defeated construct in depth 18 and below"
         ]
@@ -30638,6 +31000,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Swordstone",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 2 }],
         "dropped_by": [
           "any defeated construct in depth 4 and below"
         ]
@@ -30655,6 +31018,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Thunderball",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 10 }],
         "dropped_by": [
           "any defeated shock themed monster in depth 13 and below"
         ]
@@ -30672,6 +31036,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Torchstone",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated fire themed monster in depth 8 and below"
         ]
@@ -30689,6 +31054,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Toxic_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 5 }],
         "dropped_by": [
           "any defeated poison themed monster in depth 8 and below"
         ]
@@ -30706,6 +31072,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Trojan_Horseshoe",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 10 }],
         "dropped_by": [
           "any defeated fiend in depth 13 and below"
         ]
@@ -30723,6 +31090,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Unstable_Core",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated gremlin in depth 8 and below"
         ]
@@ -30756,6 +31124,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Volcanic_Iron",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 20 }],
         "dropped_by": [
           "any defeated gremlin in depth 18 and below"
         ]
@@ -30773,6 +31142,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Volt_Oil",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "forge spark", "amount": 5 }],
         "dropped_by": [
           "any defeated shock themed monster in depth 8 and below"
         ]
@@ -30790,6 +31160,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Warp_Dust",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "primal spark", "amount": 10 }],
         "dropped_by": [
           "any defeated beast in depth 13 and below"
         ]
@@ -30807,6 +31178,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Waste_Module",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 2 }],
         "dropped_by": [
           "any defeated poison themed monster in depth 4 and below"
         ]
@@ -30824,6 +31196,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Wicked_Idol",
       "acquisition": {
         "brinks": true,
+        "brinks_token_cost": [{ "token_type": "grim spark", "amount": 5 }],
         "dropped_by": [
           "any defeated fiend in depth 8 and below"
         ]
@@ -30856,6 +31229,283 @@
         ""
       ]
     },
+    "forge_spark": {
+      "name": "Forge Spark",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Treasure_Box_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Construct, Gremlin, Fire, and Shock themed levels",
+          "Treasure Boxes"
+        ]
+      },
+      "description": "A small wisp of the essential spirit of technology and progress. It is of extreme value to the Spiral Order. Take it to the Token Trader in the Haven Bazaar!",
+      "notes": "Used to purchase Construct and Tech-themed items from Brinks."
+    },
+    "grim_spark": {
+      "name": "Grim Spark",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Treasure_Box_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Undead, Fiend, and Poison themed levels",
+          "Treasure Boxes"
+        ]
+      },
+      "description": "A small wisp of the essential spirit of darkness and decay. It is of extreme value to the Spiral Order. Take it to the Token Trader in the Haven Bazaar!",
+      "notes": "Used to purchase Undead and Dark-themed items from Brinks."
+    },
+    "primal_spark": {
+      "name": "Primal Spark",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Treasure_Box_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Slime, Beast, and Freeze themed levels",
+          "Treasure Boxes"
+        ]
+      },
+      "description": "A small wisp of the essential spirit of nature. It is of extreme value to the Spiral Order. Take it to the Token Trader in the Haven Bazaar!",
+      "notes": "Used to purchase Nature and Beast-themed items from Brinks."
+    },
+    "almirian_seal": {
+      "name": "Almirian Seal",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Boss_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Lord Vanaduke",
+          "Darkfire Vanaduke"
+        ]
+      },
+      "description": "A seal from the lost kingdom of Almire, proof that the keeper braved the ever-burning abyss known as the Firestorm Citadel.",
+      "notes": "Boss Token. Quantity depends on depth entered (1-4 tokens)."
+    },
+    "bark_module": {
+      "name": "Bark Module",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Boss_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Roarmulus Twins",
+          "Red Roarmulus Twins"
+        ]
+      },
+      "description": "A special circuit board developed by gremlin engineers designed to enhance both the bark and bite of the Roarmulus Twins.",
+      "notes": "Boss Token. Dropped in the Clockworks."
+    },
+    "frumious_fang": {
+      "name": "Frumious Fang",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Boss_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Snarbolax",
+          "Rabid Snarbolax"
+        ]
+      },
+      "description": "A long, razor-sharp tooth plucked from the mouth of a Snarbolax; a memento representing a Knight's triumph over the monstrous stalker of the Gloaming Wildwoods.",
+      "notes": "Boss Token. Dropped in the Gloaming Wildwoods."
+    },
+    "jelly_gem": {
+      "name": "Jelly Gem",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Boss_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Royal Jelly",
+          "Ice Queen"
+        ]
+      },
+      "description": "Typically only carried by jelly royalty, these squishy gems are the official currency of the jelly kingdoms. Though highly prized by the slimes, most creatures simply eat them as they are quite delicious.",
+      "notes": "Boss Token. Dropped in the Frostfire Jubilee."
+    },
+    "krogmo_coin": {
+      "name": "Krogmo Coin",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Coliseum_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Coliseum matches (Participation)",
+          "Coliseum matches (Victory)"
+        ]
+      },
+      "description": "A coin issued by the great King Krogmo to participants in his Coliseum. It can be exchanged for prizes from the Coliseum Rewards Supervisor.",
+      "notes": "PvP Token. 1 for participation, 2 for victory. Can be bribed to Krogmo for extra rewards."
+    },
+    "sour_candy": {
+      "name": "Sour Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Dark Harvest Festival Enemies",
+          "Grim Gourdlings"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token. Expires at the end of the Dark Harvest Festival. Used for Phantom Mask line."
+    },
+    "sweet_candy": {
+      "name": "Sweet Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Dark Harvest Festival Enemies"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token. Expires at the end of the Dark Harvest Festival. Used for Spookat Mask line."
+    },
+    "hard_candy": {
+      "name": "Hard Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Dark Harvest Festival Enemies"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token. Expires at the end of the Dark Harvest Festival. Used for Frankenzom Mask line."
+    },
+    "brittle_candy": {
+      "name": "Brittle Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Grim Gourdlings (from Grim Scarabs)"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token. Expires at the end of the Dark Harvest Festival. Used for Scarab Mask line."
+    },
+    "chewy_candy": {
+      "name": "Chewy Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Dark Harvest Festival Enemies"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token introduced in 2025. Expires at the end of the Dark Harvest Festival."
+    },
+    "sticky_candy": {
+      "name": "Sticky Candy",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Candy_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Dark Harvest Festival Enemies"
+        ]
+      },
+      "description": "A piece of candy made to celebrate the Dark Harvest Festival. It can be exchanged in the Haven Town Square for various costume masks.",
+      "notes": "Event Token introduced in 2025. Expires at the end of the Dark Harvest Festival."
+    },
+    "blue_winter_wish": {
+      "name": "Blue Winter Wish",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Winterfest_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Save Winterfest! Event Mission"
+        ]
+      },
+      "description": "A tiny wishlist created by one of the children of Emberlight. It signifies that you fulfilled their holiday wishes and saved Winterfest.",
+      "notes": "Event Token. Expires at the end of Winterfest. Used for Round Santy Hat line."
+    },
+    "red_winter_wish": {
+      "name": "Red Winter Wish",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Winterfest_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Save Winterfest! Event Mission"
+        ]
+      },
+      "description": "A tiny wishlist created by one of the children of Emberlight. It signifies that you fulfilled their holiday wishes and saved Winterfest.",
+      "notes": "Event Token. Expires at the end of Winterfest. Used for Santy Sallet line."
+    },
+    "white_winter_wish": {
+      "name": "White Winter Wish",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Winterfest_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Save Winterfest! Event Mission"
+        ]
+      },
+      "description": "A tiny wishlist created by one of the children of Emberlight. It signifies that you fulfilled their holiday wishes and saved Winterfest.",
+      "notes": "Event Token. Expires at the end of Winterfest. Used for Tailed Santy Hat line."
+    },
+    "green_winter_wish": {
+      "name": "Green Winter Wish",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Winterfest_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Save Winterfest! Event Mission"
+        ]
+      },
+      "description": "A tiny wishlist created by one of the children of Emberlight. It signifies that you fulfilled their holiday wishes and saved Winterfest.",
+      "notes": "Event Token. Expires at the end of Winterfest. Used for Santy Pith Hat line."
+    },
+    "frozen_winterfest_wishlist": {
+      "name": "Frozen Winterfest Wishlist",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Winterfest_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Mysterious Rooms (Winterfest Arcade)"
+        ]
+      },
+      "description": "A tiny wishlist created by one of the children of Emberlight. It signifies that you fulfilled their holiday wishes and saved Winterfest.",
+      "notes": "Event Token. Found in Mysterious Rooms during Winterfest."
+    },
+    "apocrean_sigil": {
+      "name": "Apocrean Sigil",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Event_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Apocrea Event Bosses",
+          "Event Missions"
+        ]
+      },
+      "description": "An otherworldly brand placed upon a soul claimed by the mysterious Apocrea. Removing it allows the captured soul to escape imprisonment within the terrible realm of the Apocrea.",
+      "notes": "Event Token. Used to purchase items from Apocrea vendors."
+    },
+    "ancient_page": {
+      "name": "Ancient Page",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Token#Event_Tokens",
+      "acquisition": {
+        "dropped_by": [
+          "Black Kats",
+          "Prestige Missions: That Mold, Black Magic Bad Luck and Brimstone, Purr Terror"
+        ]
+      },
+      "description": "A crumbling page torn from a long-forgotten grimoire of the Moorcroft Manor archives. The indecipherable language written upon it glows faintly in the dark as if containing power in its very words.",
+      "notes": "Event Token (Kataclysmic Confrontation). Recovered from Black Kats or prestige missions."
+    },
+    "cake_slice": {
+      "name": "Cake Slice",
+      "category": "token",
+      "wiki_url": "https://wiki.spiralknights.com/Caketastrophe",
+      "acquisition": {
+        "dropped_by": [
+          "Creep Cakes (Cake Nests)",
+          "Prestige Missions: Total Caketastrophe!, A Gremlin in Knead",
+          "Bulky (Vendor)"
+        ]
+      },
+      "description": "A delicious slice of cake from the Caketastrophe event. It can be traded for special costume helmets or Anniversary Prize Boxes.",
+      "notes": "Event Token (Caketastrophe). Expires after the event. Found in 'cake nests' in the Arcade."
+    },   
     "black kat hat": {
       "name": "black kat hat",
       "category": "helmet",
