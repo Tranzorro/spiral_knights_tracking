@@ -18766,35 +18766,38 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "5"
           },
           {
-            "name": "iron gear",
+            "name": "Iron Gear",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "2"
           },
           {
-            "name": "maiden's tear",
+            "name": "Maiden's Tear",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Mighty Cobalt Armor",
+            "amount": "1"
           }
         ]
       },
@@ -18823,39 +18826,42 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "chroma tear",
+            "name": "Chroma Tear",
             "amount": "1"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "maiden's tear",
+            "name": "Maiden's Tear",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Salamander Suit",
+            "amount": "1"
           }
         ]
       },
@@ -18875,32 +18881,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Seraphic Mail",
+            "amount": "1"
           }
         ]
       },
@@ -18927,32 +18937,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "5"
           },
           {
-            "name": "iron gear",
+            "name": "Iron Gear",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "2"
           },
           {
-            "name": "sun silver",
+            "name": "Sun Silver",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Mighty Cobalt Armor",
+            "amount": "1"
           }
         ]
       },
@@ -18968,39 +18982,42 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "3"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Black Kat Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19021,36 +19038,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "5"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "meteor mote",
+            "name": "Meteor Mote",
             "amount": "1"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "1"
           },
           {
-            "name": "flame soul",
+            "name": "Flame Soul",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Demo Suit",
+            "amount": "1"
           }
         ]
       },
@@ -19075,32 +19096,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "2"
           },
           {
-            "name": "crest of ur",
+            "name": "Crest of Ur",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Miracle Cloak",
+            "amount": "1"
           }
         ]
       },
@@ -19120,36 +19145,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "chroma tear",
+            "name": "Chroma Tear",
             "amount": "1"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "1"
           },
           {
-            "name": "plague essence",
+            "name": "Plague Essence",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Virulisk Suit",
+            "amount": "1"
           }
         ]
       },
@@ -19174,32 +19203,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sunset Duster",
+            "amount": "1"
           }
         ]
       },
@@ -19225,32 +19258,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "2"
           },
           {
-            "name": "silverweave",
+            "name": "Silverweave",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Miracle Cloak",
+            "amount": "1"
           }
         ]
       },
@@ -19271,32 +19308,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "chroma tear",
+            "name": "Chroma Tear",
             "amount": "2"
           },
           {
-            "name": "dragon scale",
+            "name": "Dragon Scale",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Wyvern Scale Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19321,32 +19362,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "5"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "4"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "3"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sinister Skelly Suit",
+            "amount": "1"
           }
         ]
       },
@@ -19371,32 +19416,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "2"
           },
           {
-            "name": "philoso feather",
+            "name": "Philoso Feather",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Miracle Cloak",
+            "amount": "1"
           }
         ]
       },
@@ -19412,35 +19461,38 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "3"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "2"
           },
           {
-            "name": "gremlonium",
+            "name": "Gremlonium",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Seraphic Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19456,35 +19508,38 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "5"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "celestial ore",
+            "name": "Celestial Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Rock Jelly Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19509,32 +19564,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "redwood",
+            "name": "Redwood",
             "amount": "3"
           },
           {
-            "name": "ironwood",
+            "name": "Ironwood",
             "amount": "2"
           },
           {
-            "name": "royal skewer",
+            "name": "Royal Skewer",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Plate Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19560,32 +19619,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "silver coil",
+            "name": "Silver Coil",
             "amount": "2"
           },
           {
-            "name": "silverweave",
+            "name": "Silverweave",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sunset Duster",
+            "amount": "1"
           }
         ]
       },
@@ -19602,39 +19665,42 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "3"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Claw Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19651,39 +19717,42 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "3"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Eye Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19700,39 +19769,42 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "3"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Hiss Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19753,32 +19825,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "5"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Demo Suit",
+            "amount": "1"
           }
         ]
       },
@@ -19794,39 +19870,42 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "5"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "meteor mote",
+            "name": "Meteor Mote",
             "amount": "1"
           },
           {
-            "name": "silver coil",
+            "name": "Silver Coil",
             "amount": "1"
           },
           {
-            "name": "gremlonium",
+            "name": "Gremlonium",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Demo Suit",
+            "amount": "1"
           }
         ]
       },
@@ -19847,36 +19926,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "5"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "rocky core",
+            "name": "Rocky Core",
             "amount": "1"
           },
           {
-            "name": "thunderball",
+            "name": "Thunderball",
             "amount": "1"
           },
           {
-            "name": "storm chaser",
+            "name": "Storm Chaser",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Charged Quicksilver Mail",
+            "amount": "1"
           }
         ]
       },
@@ -19902,32 +19985,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "2"
           },
           {
-            "name": "plasma cell",
+            "name": "Plasma Cell",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sunset Duster",
+            "amount": "1"
           }
         ]
       },
@@ -19948,32 +20035,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "3"
           },
           {
-            "name": "silver coil",
+            "name": "Silver Coil",
             "amount": "2"
           },
           {
-            "name": "philoso feather",
+            "name": "Philoso Feather",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Silvermail",
+            "amount": "1"
           }
         ]
       },
@@ -19998,32 +20089,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "5"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "rocky core",
+            "name": "Rocky Core",
             "amount": "2"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Rock Jelly Mail",
+            "amount": "1"
           }
         ]
       },
@@ -20043,32 +20138,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20089,32 +20188,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "dragon scale",
+            "name": "Dragon Scale",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20135,32 +20238,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20181,32 +20288,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "crest of ur",
+            "name": "Crest of Ur",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20227,32 +20338,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "plasma cell",
+            "name": "Plasma Cell",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20273,32 +20388,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "sun silver",
+            "name": "Sun Silver",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20319,32 +20438,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Thunderball",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Falcon Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20365,32 +20488,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Thunderball",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Falcon Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20411,32 +20538,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "3"
           },
           {
-            "name": "thunderball",
+            "name": "Thunderball",
             "amount": "2"
           },
           {
-            "name": "volcanic iron",
+            "name": "Volcanic Iron",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Falcon Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20733,32 +20864,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20779,32 +20914,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20825,32 +20964,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "3"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "2"
           },
           {
-            "name": "volcanic iron",
+            "name": "Volcanic Iron",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Firefly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20871,32 +21014,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20917,32 +21064,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "dragon scale",
+            "name": "Dragon Scale",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -20963,32 +21114,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21009,32 +21164,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "crest of ur",
+            "name": "Crest of Ur",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21055,32 +21214,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "plasma cell",
+            "name": "Plasma Cell",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21101,32 +21264,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "sun silver",
+            "name": "Sun Silver",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21147,32 +21314,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21193,32 +21364,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21239,32 +21414,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "3"
           },
           {
-            "name": "perfect snowball",
+            "name": "Perfect Snowball",
             "amount": "2"
           },
           {
-            "name": "volcanic iron",
+            "name": "Volcanic Iron",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Grizzly Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21285,32 +21464,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "reaper rib",
+            "name": "Reaper Rib",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21331,32 +21514,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "dragon scale",
+            "name": "Dragon Scale",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21377,32 +21564,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21423,32 +21614,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "4"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "crest of ur",
+            "name": "Crest of Ur",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21469,32 +21664,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "plasma cell",
+            "name": "Plasma Cell",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21515,32 +21714,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "sun silver",
+            "name": "Sun Silver",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Pathfinder Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21561,32 +21764,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21607,32 +21814,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "5"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "4"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Shade Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21653,32 +21864,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "3"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "2"
           },
           {
-            "name": "volcanic iron",
+            "name": "Volcanic Iron",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Plated Snakebite Sentinel Armor",
+            "amount": "1"
           }
         ]
       },
@@ -21704,32 +21919,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "5"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "mug of misery",
+            "name": "Mug of Misery",
             "amount": "2"
           },
           {
-            "name": "shadow steel",
+            "name": "Shadow Steel",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sunset Duster",
+            "amount": "1"
           }
         ]
       },
@@ -21755,28 +21974,32 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "warp dust",
+            "name": "Warp Dust",
             "amount": "2"
           },
           {
-            "name": "primal ore",
+            "name": "Primal Ore",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Ash Tail Coat",
+            "amount": "1"
           }
         ]
       },
@@ -21792,35 +22015,38 @@
         "sanctuary_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "20"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "2"
           },
           {
-            "name": "nightmare mane",
+            "name": "Nightmare Mane",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Ash Tail Coat",
+            "amount": "1"
           }
         ]
       },
@@ -21836,36 +22062,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "5"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "4"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "27"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "meteor mote",
+            "name": "Meteor Mote",
             "amount": "1"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Quilted Demo Suit",
+            "amount": "1"
           }
         ]
       },
@@ -21889,36 +22119,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "20"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "27"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "warp dust",
+            "name": "Warp Dust",
             "amount": "1"
           },
           {
-            "name": "royal core",
+            "name": "Royal Core",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Quilted Hunting Coat",
+            "amount": "1"
           }
         ]
       },
@@ -21939,32 +22173,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "20"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "5"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "4"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "3"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "2"
           },
           {
-            "name": "sun silver",
+            "name": "Sun Silver",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Seraphic Mail",
+            "amount": "1"
           }
         ]
       },
@@ -21990,36 +22228,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "5"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "4"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "3"
           },
           {
-            "name": "warp dust",
+            "name": "Warp Dust",
             "amount": "1"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "1"
           },
           {
-            "name": "flame soul",
+            "name": "Flame Soul",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Ash Tail Coat",
+            "amount": "1"
           }
         ]
       },
@@ -22040,32 +22282,36 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "5"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "4"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "3"
           },
           {
-            "name": "meteor mote",
+            "name": "Meteor Mote",
             "amount": "2"
           },
           {
-            "name": "volcanic iron",
+            "name": "Volcanic Iron",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Demo Suit",
+            "amount": "1"
           }
         ]
       },
@@ -22091,36 +22337,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "5"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "4"
           },
           {
-            "name": "redwood",
+            "name": "Redwood",
             "amount": "3"
           },
           {
-            "name": "ironwood",
+            "name": "Ironwood",
             "amount": "1"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "1"
           },
           {
-            "name": "flame soul",
+            "name": "Flame Soul",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Heavy Plate Mail",
+            "amount": "1"
           }
         ]
       },
@@ -22140,36 +22390,40 @@
         "alchemy_cost": 5000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "20"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "5"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "4"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "3"
           },
           {
-            "name": "chroma tear",
+            "name": "Chroma Tear",
             "amount": "1"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "1"
           },
           {
-            "name": "flame soul",
+            "name": "Flame Soul",
             "amount": "1"
           },
           {
-            "name": "eternal orb of alchemy",
+            "name": "Eternal Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Salamander Suit",
+            "amount": "1"
           }
         ]
       },
@@ -22194,28 +22448,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "4"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "3"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "2"
           },
           {
-            "name": "warp dust",
+            "name": "Warp Dust",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Dusker Coat(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22232,35 +22490,38 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "2"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "2"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Black Kat Cloak(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22281,32 +22542,36 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "4"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "3"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "1"
           },
           {
-            "name": "volt oil",
+            "name": "Volt Oil",
             "amount": "1"
           },
           {
-            "name": "thunderball",
+            "name": "Thunderball",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Quicksilver Mail(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22327,28 +22592,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "15"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "4"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "3"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "2"
           },
           {
-            "name": "meteor mote",
+            "name": "Meteor Mote",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Fused Demo Suit(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22374,28 +22643,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "15"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "4"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "3"
           },
           {
-            "name": "redwood",
+            "name": "Redwood",
             "amount": "2"
           },
           {
-            "name": "ironwood",
+            "name": "Ironwood",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Boosted Plate Mail(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22412,35 +22685,38 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "2"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "2"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Claw Cloak(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22457,35 +22733,38 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "2"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "2"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Eye Cloak(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22502,35 +22781,38 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "2"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "2"
           },
           {
-            "name": "kat tribe fetish",
+            "name": "Kat Tribe Fetish",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Kat Hiss Cloak(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22558,28 +22840,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "15"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "4"
           },
           {
-            "name": "iron gear",
+            "name": "Iron Gear",
             "amount": "3"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "2"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Solid Cobalt Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22605,28 +22891,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Elemental Cloak(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22647,28 +22937,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "3"
           },
           {
-            "name": "volt oil",
+            "name": "Volt Oil",
             "amount": "2"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Falcon Pathfinder Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22689,28 +22983,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "volt oil",
+            "name": "Volt Oil",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Falcon Sentinel Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22731,28 +23029,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "4"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "3"
           },
           {
-            "name": "volt oil",
+            "name": "Volt Oil",
             "amount": "2"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Falcon Shade Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22773,28 +23075,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "3"
           },
           {
-            "name": "torchstone",
+            "name": "Torchstone",
             "amount": "2"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Firefly Pathfinder Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22815,28 +23121,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "torchstone",
+            "name": "Torchstone",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Firefly Sentinel Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22857,28 +23167,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "4"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "3"
           },
           {
-            "name": "torchstone",
+            "name": "Torchstone",
             "amount": "2"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Firefly Shade Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22899,28 +23213,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "3"
           },
           {
-            "name": "hailstone",
+            "name": "Hailstone",
             "amount": "2"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Grizzly Pathfinder Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22941,28 +23259,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "hailstone",
+            "name": "Hailstone",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Grizzly Sentinel Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -22983,28 +23305,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "4"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "3"
           },
           {
-            "name": "hailstone",
+            "name": "Hailstone",
             "amount": "2"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Grizzly Shade Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23025,28 +23351,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "3"
           },
           {
-            "name": "toxic core",
+            "name": "Toxic Core",
             "amount": "2"
           },
           {
-            "name": "heavy gear",
+            "name": "Heavy Gear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Snakebite Pathfinder Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23067,28 +23397,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "toxic core",
+            "name": "Toxic Core",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Snakebite Sentinel Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23109,28 +23443,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "4"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "3"
           },
           {
-            "name": "toxic core",
+            "name": "Toxic Core",
             "amount": "2"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Woven Snakebite Shade Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23147,28 +23485,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "15"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "4"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "3"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "15"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Padded Demo Suit(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23192,28 +23534,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "4"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "3"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "15"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Padded Hunting Coat(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23239,28 +23585,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "4"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "3"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "2"
           },
           {
-            "name": "rocky core",
+            "name": "Rocky Core",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Brute Jelly Mail(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23281,32 +23631,36 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "1"
           },
           {
-            "name": "torchstone",
+            "name": "Torchstone",
             "amount": "1"
           },
           {
-            "name": "blaze pepper",
+            "name": "Blaze Pepper",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Chroma Suit(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23327,28 +23681,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "4"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "3"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "2"
           },
           {
-            "name": "trojan horseshoe",
+            "name": "Trojan Horseshoe",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Angelic Raiment(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23369,28 +23727,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "4"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "3"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "2"
           },
           {
-            "name": "silver coil",
+            "name": "Silver Coil",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Drake Scale Mail(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23416,28 +23778,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "15"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "4"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "3"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "2"
           },
           {
-            "name": "blighted bone",
+            "name": "Blighted Bone",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Scary Skelly Suit(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23463,28 +23829,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "3"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "2"
           },
           {
-            "name": "silver coil",
+            "name": "Silver Coil",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Gunslinger Sash(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23505,32 +23875,36 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "1"
           },
           {
-            "name": "toxic core",
+            "name": "Toxic Core",
             "amount": "1"
           },
           {
-            "name": "corrosive acid",
+            "name": "Corrosive Acid",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Chroma Suit(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23556,28 +23930,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "15"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "4"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "3"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "2"
           },
           {
-            "name": "miracloth",
+            "name": "Miracloth",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Solid Cobalt Armor(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23598,28 +23976,32 @@
         "alchemy_cost": 2500,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "15"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "4"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "3"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "2"
           },
           {
-            "name": "chroma tear",
+            "name": "Chroma Tear",
             "amount": "1"
           },
           {
-            "name": "elite orb of alchemy",
+            "name": "Elite Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Drake Scale Mail(Heat Level 5+)",
+            "amount": "1"
           }
         ]
       },
@@ -23640,23 +24022,23 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "owlite feather",
+            "name": "Owlite Feather",
             "amount": "2"
           },
           {
-            "name": "dead gold",
+            "name": "Dead Gold",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -23674,30 +24056,29 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -23719,28 +24100,32 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "blast powder",
+            "name": "Blast Powder",
             "amount": "1"
           },
           {
-            "name": "torchstone",
+            "name": "Torchstone",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Firebreak Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -23760,28 +24145,32 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "frost gel",
+            "name": "Frost Gel",
             "amount": "1"
           },
           {
-            "name": "hailstone",
+            "name": "Hailstone",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Icebreaker Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -23806,24 +24195,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "10"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "3"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "2"
           },
           {
-            "name": "redwood",
+            "name": "Redwood",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Spiral Plate Mail(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -23850,24 +24243,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "3"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "2"
           },
           {
-            "name": "brute core",
+            "name": "Brute Core",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Jelly Mail",
+            "amount": "1"
           }
         ]
       },
@@ -23887,23 +24284,23 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "2"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -23924,23 +24321,23 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "2"
           },
           {
-            "name": "drake scale",
+            "name": "Drake Scale",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -23967,24 +24364,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "3"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Wolver Coat(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24010,24 +24411,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Magic Cloak(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24047,24 +24452,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "10"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "3"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "2"
           },
           {
-            "name": "wicked idol",
+            "name": "Wicked Idol",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Spiral Demo Suit(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24090,23 +24499,23 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -24123,30 +24532,29 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -24164,30 +24572,29 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -24205,30 +24612,29 @@
         "mysterious_alchemy": true
       },
       "recipe": {
-        "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "wicked whisker",
+            "name": "Wicked Whisker",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -24253,24 +24659,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "3"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "2"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "6"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Wolver Coat(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24308,24 +24718,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "3"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "2"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Skelly Suit(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24353,24 +24767,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "10"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "3"
           },
           {
-            "name": "iron gear",
+            "name": "Iron Gear",
             "amount": "2"
           },
           {
-            "name": "fine fabric",
+            "name": "Fine Fabric",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Cobalt Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24390,28 +24808,32 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "static clinger",
+            "name": "Static Clinger",
             "amount": "1"
           },
           {
-            "name": "volt oil",
+            "name": "Volt Oil",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Volt Breaker Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24431,24 +24853,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "static clinger",
+            "name": "Static Clinger",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Pathfinder Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24469,24 +24895,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "3"
           },
           {
-            "name": "static clinger",
+            "name": "Static Clinger",
             "amount": "2"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sentinel Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24507,24 +24937,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "3"
           },
           {
-            "name": "static clinger",
+            "name": "Static Clinger",
             "amount": "2"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Shade Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24545,24 +24979,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "blast powder",
+            "name": "Blast Powder",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Pathfinder Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24583,24 +25021,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "3"
           },
           {
-            "name": "blast powder",
+            "name": "Blast Powder",
             "amount": "2"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sentinel Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24621,24 +25063,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "3"
           },
           {
-            "name": "blast powder",
+            "name": "Blast Powder",
             "amount": "2"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Shade Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24659,24 +25105,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "frost gel",
+            "name": "Frost Gel",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Pathfinder Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24697,24 +25147,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "3"
           },
           {
-            "name": "frost gel",
+            "name": "Frost Gel",
             "amount": "2"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sentinel Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24735,24 +25189,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "3"
           },
           {
-            "name": "frost gel",
+            "name": "Frost Gel",
             "amount": "2"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Shade Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24773,24 +25231,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "10"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "3"
           },
           {
-            "name": "nightshade",
+            "name": "Nightshade",
             "amount": "2"
           },
           {
-            "name": "bushy tail",
+            "name": "Bushy Tail",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Pathfinder Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24811,24 +25273,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "10"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "3"
           },
           {
-            "name": "nightshade",
+            "name": "Nightshade",
             "amount": "2"
           },
           {
-            "name": "force dynamo",
+            "name": "Force Dynamo",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Sentinel Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24849,24 +25315,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "10"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "3"
           },
           {
-            "name": "nightshade",
+            "name": "Nightshade",
             "amount": "2"
           },
           {
-            "name": "soul dust",
+            "name": "Soul Dust",
             "amount": "1"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Shade Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24883,24 +25353,28 @@
         "alchemy_cost": 1000,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "10"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "3"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "2"
           },
           {
-            "name": "zee core",
+            "name": "Zee Core",
             "amount": "6"
           },
           {
-            "name": "advanced orb of alchemy",
+            "name": "Advanced Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Spiral Demo Suit(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -24929,19 +25403,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "5"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "2"
           },
           {
-            "name": "iron gear",
+            "name": "Iron Gear",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -24964,24 +25438,28 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "5"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "blast powder",
+            "name": "Blast Powder",
             "amount": "1"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Emberbreak Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25003,24 +25481,28 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "5"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "frost gel",
+            "name": "Frost Gel",
             "amount": "1"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Frostbreaker Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25047,19 +25529,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "5"
           },
           {
-            "name": "gel drop",
+            "name": "Gel Drop",
             "amount": "2"
           },
           {
-            "name": "gel core",
+            "name": "Gel Core",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25087,19 +25569,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "5"
           },
           {
-            "name": "brimstone",
+            "name": "Brimstone",
             "amount": "2"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25122,20 +25604,24 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "5"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Padded Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25158,20 +25644,24 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "5"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "2"
           },
           {
-            "name": "critter carapace",
+            "name": "Critter Carapace",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Padded Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25194,20 +25684,24 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "5"
           },
           {
-            "name": "vile seal",
+            "name": "Vile Seal",
             "amount": "2"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Padded Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25240,19 +25734,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "dark shard",
+            "name": "Dark Shard",
             "amount": "5"
           },
           {
-            "name": "ecto drop",
+            "name": "Ecto Drop",
             "amount": "2"
           },
           {
-            "name": "grave soil",
+            "name": "Grave Soil",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25276,19 +25770,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "5"
           },
           {
-            "name": "spark plug",
+            "name": "Spark Plug",
             "amount": "2"
           },
           {
-            "name": "sinful brew",
+            "name": "Sinful Brew",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25317,19 +25811,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "5"
           },
           {
-            "name": "scrap metal",
+            "name": "Scrap Metal",
             "amount": "2"
           },
           {
-            "name": "driftwood",
+            "name": "Driftwood",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25353,19 +25847,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "5"
           },
           {
-            "name": "bronze bolt",
+            "name": "Bronze Bolt",
             "amount": "2"
           },
           {
-            "name": "forbidden fruit",
+            "name": "Forbidden Fruit",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25389,24 +25883,28 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "5"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "frayed fabric",
+            "name": "Frayed Fabric",
             "amount": "1"
           },
           {
-            "name": "static clinger",
+            "name": "Static Clinger",
             "amount": "1"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
+          },
+          {
+            "name": "Circuit Breaker Armor(Heat Level 1+)",
+            "amount": "1"
           }
         ]
       },
@@ -25433,19 +25931,19 @@
         "alchemy_cost": 400,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "5"
           },
           {
-            "name": "sharp fang",
+            "name": "Sharp Fang",
             "amount": "2"
           },
           {
-            "name": "monster bone",
+            "name": "Monster Bone",
             "amount": "2"
           },
           {
-            "name": "simple orb of alchemy",
+            "name": "Simple Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25469,15 +25967,15 @@
         "alchemy_cost": 200,
         "materials": [
           {
-            "name": "blue shard",
+            "name": "Blue Shard",
             "amount": "3"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "flawed orb of alchemy",
+            "name": "Flawed Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25504,15 +26002,15 @@
         "alchemy_cost": 200,
         "materials": [
           {
-            "name": "red shard",
+            "name": "Red Shard",
             "amount": "3"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "flawed orb of alchemy",
+            "name": "Flawed Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25535,15 +26033,15 @@
         "alchemy_cost": 200,
         "materials": [
           {
-            "name": "green shard",
+            "name": "Green Shard",
             "amount": "3"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "flawed orb of alchemy",
+            "name": "Flawed Orb of Alchemy",
             "amount": "3"
           }
         ]
@@ -25582,15 +26080,15 @@
         "alchemy_cost": 200,
         "materials": [
           {
-            "name": "light shard",
+            "name": "Light Shard",
             "amount": "3"
           },
           {
-            "name": "beast scale",
+            "name": "Beast Scale",
             "amount": "2"
           },
           {
-            "name": "flawed orb of alchemy",
+            "name": "Flawed Orb of Alchemy",
             "amount": "3"
           }
         ]
