@@ -491,7 +491,8 @@
           "amount": 25000
         }
       },
-      "recipe_cost": 25000,
+      "recipe": {
+        "recipe_cost": 25000,
         "alchemy_cost": 5000,
         "materials": [
           {
@@ -2322,7 +2323,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Sealed_Sword",
       "acquisition": {
         "brinks": true,
-        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 20 }],
+        "brinks_token_cost": [{"bound": true, "token_type": "jelly gem", "amount": 20 }]
       },
       "description": "a mysterious sword of great untapped potential. it hums with raw power.",
       "notes": "this item has been available since release 2011-04-04 when the game officially launched. the original plan was that it would have nine seals on it and using it would break each seal one by one. once it was free of seals, you could either turn it into an avenger or gran faust via a random element in the clockworks. this all changed a long time ago when alchemy became a part of the design. 1"
@@ -16681,7 +16682,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "quilted hunting cap": {
       "name": "quilted hunting cap",
@@ -17946,7 +17947,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "padded hunting cap": {
       "name": "padded hunting cap",
@@ -29108,7 +29109,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "spiral soaker": {
       "name": "spiral soaker",
@@ -29172,7 +29173,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "pollinator": {
       "name": "pollinator",
@@ -29196,8 +29197,7 @@
       "star_level": 5,
       "wiki_url": "https://wiki.spiralknights.com/Humbug_Hazer",
       "is_reskin": true,
-      "reskin_of": "venom veiler"
-    },
+      "reskin_of": "venom veiler",
     "recipe": {
       "materials": [
         {
@@ -29242,6 +29242,7 @@
         }
       ]
     },
+  },
     "jack froster": {
       "name": "jack froster",
       "category": "bomb",
@@ -29288,7 +29289,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "scalding hot cocoa": {
       "name": "scalding hot cocoa",
@@ -29336,7 +29337,7 @@
             "amount": "1"
           }
         ]
-      },
+      }
     },
     "deadly charcoaler": {
       "name": "deadly charcoaler",
@@ -36188,7 +36189,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Dark_Ember",
       "acquisition": {
         "brinks": true,
-        "brinks_token_cost": [{ "token_type": "almirian seal", "amount": 25 }],
+        "brinks_token_cost": [{ "token_type": "almirian seal", "amount": 25 }]
       },
       "description": "a mote of burning energy salvaged from lord vanaduke's throne room. it slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time.",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -37363,7 +37364,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Rock_Salt",
       "acquisition": {
         "brinks": true,
-        "brinks_token_cost": [{ "token_type": "jelly gem", "amount": 2 }, { "token_type": "primal spark", "amount": 5 }],
+        "brinks_token_cost": [{ "token_type": "jelly gem", "amount": 2 }, { "token_type": "primal spark", "amount": 5 }]
       },
       "description": "a small amount of clockworks mineral that's been infused with absolutely nothing. it hungrily draws at nearby essences and flavors, making it a staple in cooking, and the bane of jellies everywhere.",
       "notes": "this material has been available since release 2011-04-04 when the game officially launched. similar to real-world salt and animals such as the slug , slimes are harmed by this material. this phenomenon is referenced in its description as well as the prestige mission: a pinch of salt . based on its description, this material seems to be a colorless mineral in material form.",
@@ -37430,7 +37431,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Schemer_Scrap",
       "acquisition": {
         "brinks": true,
-        "brinks_token_cost": [{ "token_type": "bark module", "amount": 18 }],
+        "brinks_token_cost": [{ "token_type": "bark module", "amount": 18 }]
       },
       "description": "a fragment of a blueprint used by gremlin schemers to construct their mechanical monstrosities. with enough of them and a little tape, you could construct a metal death machine yourself!",
       "notes": "this material was introduced with release 2012-12-12 ."
@@ -37599,7 +37600,7 @@
       "wiki_url": "https://wiki.spiralknights.com/Snarbostuffing",
       "acquisition": {
         "brinks": true,
-        "brinks_token_cost": [{ "token_type": "frumious fang", "amount": 12 }],
+        "brinks_token_cost": [{ "token_type": "frumious fang", "amount": 12 }]
       },
       "description": "a dense, fluffy stuffing made from a special polymer that doesn't break down when exposed to the cursed fur of the snarbolax. it's perfect for creating trophies or adorable, cursed, stuffed toys.",
       "notes": "this material was introduced with release 2012-12-12 ."
