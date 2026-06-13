@@ -14,6 +14,11 @@ this json file is the result of me creating an item tracking app in Godot engine
 though as i get deeper into the project, and the more things i add, the more in depth the data keeps getting, so i need a way to drive all this information cleanly.  
 the wiki is great, however it is not always current, and it is not ideal for an app to ping the wiki to scrape data constantly.  
 you can find the beta release here: https://github.com/Tranzorro/spiral_knights_tracking/releases/tag/DST-beta-release  or by clicking the release tags to the right of this page.
+
+How to interact with the app:  
+left mouse adds to the count/clicks buttons.  
+right mouse subtracts from wishlist, subtracts count.  
+middle mouse SCROLL to zoom, drag middle mouse to pan around.  
   
 what to do:  
 it's a json, if you feel there is information missing, or the format needs adjusting, i encourage you to add on to it.  
