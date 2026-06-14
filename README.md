@@ -16,7 +16,8 @@ the wiki is great, however it is not always current, and it is not ideal for an 
 you can find the beta release here: https://github.com/Tranzorro/spiral_knights_tracking/releases/tag/DST-beta-release  or by clicking the release tags to the right of this page.
 
 How to interact with the app:  
-left mouse adds to the count/clicks buttons.  
+left mouse adds to the count/clicks buttons. 
+Shift + left mouse button lets you toggle recipes on and off per item (this can be rebound to anything in settings).  
 right mouse subtracts from wishlist, subtracts count.  
 middle mouse SCROLL to zoom, drag middle mouse to pan around.  
   
